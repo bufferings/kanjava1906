@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  db:
+    image: postgres:11.2-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_PASSWORD=kanjava
+      - POSTGRES_DB=kanjava
+    volumes:
+      - "./postgresql:/docker-entrypoint-initdb.d"

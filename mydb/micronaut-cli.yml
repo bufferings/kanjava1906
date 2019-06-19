@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mydb
+---
+testFramework: junit
+sourceLanguage: java
