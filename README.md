@@ -1,9 +1,10 @@
 # kanjava1906
 
 This is a demo code repository for KanJava1906.
+https://kanjava.connpass.com/event/134119/
 
 My presentation slide is here:
-TBD
+https://speakerdeck.com/bufferings/the-touch-and-feel-of-micronaut
 
 ## demo
 
